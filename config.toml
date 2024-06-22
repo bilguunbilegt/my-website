@@ -1,7 +1,7 @@
 baseURL = "https://bilguunbyambadorj.netlify.app/"
 languageCode = "en-us"
 title = "My Website"
-theme = "ananke"
+theme = "aafu"
 
 [params]
   description = "My personal website"
