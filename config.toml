@@ -1,0 +1,24 @@
+baseURL = "https://bilguunbyambadorj.netlify.app/"
+languageCode = "en-us"
+title = "My Website"
+theme = "ananke"
+
+[params]
+  description = "My personal website"
+  author = "Bilguun Byambadorj"
+  github = "https://github.com/bilguunbilegt"
+  linkedin = "https://linkedin.com/in/yourprofile"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 3
