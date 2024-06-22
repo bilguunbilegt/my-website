@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2024-06-22T12:00:00Z
-draft: false
+layout: "resume/single"
 ---
 
 # Bilguun Byambadorj
@@ -14,7 +14,7 @@ draft: false
 
 ## Education
 - **Ph.D. Nuclear Science and Engineering** from Idaho State University (2014 - 2017)
-thesis_title: "Simulating Approach-To-Critical Experiment on EBR-II Reactor"
+  - **Thesis Title:** "Simulating Approach-To-Critical Experiment on EBR-II Reactor"
 - **M.S. Nuclear Science and Engineering** from Idaho State University (2011 - 2014)
-thesis_title: "Upgrade of Deterministic Multi-Energy Group Diffusion Reactor Physics Code"
+  - **Thesis Title:** "Upgrade of Deterministic Multi-Energy Group Diffusion Reactor Physics Code"
 - **B.S. in Mathematics and Computer Science** from Dickinson State University (2007 - 2011)

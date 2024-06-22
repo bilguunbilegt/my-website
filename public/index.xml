@@ -9,11 +9,18 @@
     <lastBuildDate>Sat, 22 Jun 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
       <pubDate>Sat, 22 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>Bilguun Byambadorj Experience Data Engineer at Capital One (2019 - Present) Developed web applications using Go and React. Research Assistant at University of Michigan (2018 - 2019) Developed web applications using Go and React. Education Ph.D. Nuclear Science and Engineering from Idaho State University (2014 - 2017) Thesis Title: &amp;ldquo;Simulating Approach-To-Critical Experiment on EBR-II Reactor&amp;rdquo; M.S. Nuclear Science and Engineering from Idaho State University (2011 - 2014) Thesis Title: &amp;ldquo;Upgrade of Deterministic Multi-Energy Group Diffusion Reactor Physics Code&amp;rdquo; B.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>This is the content of my first post.</description>
+      <description>Hello! My name is Bilguun Byambadorj, and I am a data engineer with a strong background in both mathematics and computer science. My journey in the technical field has been diverse and enriching, spanning academia and industry. I graduated in 2011 with a Bachelor of Science in Mathematics and Computer Science. This dual degree laid a solid foundation for my analytical and problem-solving skills, which I further honed during my graduate studies.</description>
     </item>
   </channel>
 </rss>
